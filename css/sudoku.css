@@ -1,0 +1,58 @@
+body {
+    color: #333333;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+}
+
+.input {
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#title {
+    text-align: center;
+}
+
+#grid {
+    background: url("../img/grid.jpg") no-repeat;
+    height: 360px;
+    margin: auto;
+    width: 360px;
+}
+
+.cell {
+    float: left;
+    height: 30px;
+    padding: 5px;
+    width: 30px;
+}
+
+#form_submit {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+#error_message {
+    width: 150px;
+    float: left;
+    color: red;
+}
+
+#submit {
+    width: 50px;
+    float: right;
+}

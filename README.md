@@ -1,2 +1,2 @@
-# PHP-Sudoku-Solver
+# PHP Sudoku Solver
 Sudoku Solver written in PHP
